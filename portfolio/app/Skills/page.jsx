@@ -12,6 +12,7 @@ import {
   FaGitAlt,
   FaFigma,
 } from "react-icons/fa";
+import { SiMysql } from "react-icons/si";
 import { TbApi } from "react-icons/tb";
 import { RiNextjsFill, RiTailwindCssFill } from "react-icons/ri";
 import { SiExpress, SiPostman } from "react-icons/si";
@@ -45,6 +46,7 @@ const Page = () => {
     { icon: SiPostman, name: "Postman", color: "#FF6C37" },
     { icon: FaFigma, name: "Figma", color: "#F24E1E" },
     { icon: TbApi, name: "API Integration", color: "red" },
+     { icon: SiMysql, name: "MySQL", color: "blue" },
   ];
 
   return (
