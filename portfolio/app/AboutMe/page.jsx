@@ -48,7 +48,7 @@ const Page = () => {
 
         <div className="flex justify-center md:justify-start" data-aos="zoom-in">
           <Link
-            href="/Sherril-resume(updated).pdf"
+            href="/Sherril James Kumar M-resume(updated).pdf"
             download
             className="bg-orange-500 hover:bg-orange-600 transition-all text-white text-lg font-medium px-6 py-3 rounded-lg shadow-md hover:shadow-lg"
           >
