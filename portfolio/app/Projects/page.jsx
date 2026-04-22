@@ -15,7 +15,7 @@ const Page = () => {
       title: "Artsworld",
       tech_stack: ["ReactJS", "NodeJS", "Express", "MongoDB", "TailwindCSS"],
       description:
-        "Built a craft and art supply e-commerce website using the MERN stack and TailwindCSS with a fully responsive frontend interface. Developed core pages and styling for a smooth browsing and user-friendly purchasing experience.",
+        "Developed a full-stack e-commerce platform for art supplies using the MERN Stack and TailwindCSS. Implemented core functionalities including RESTful API integration and a fully responsive frontend. ",
       Role: "Frontend & Backend Developer",
       link: "https://github.com/sherril203/DIY-website-React",
       live_link:"https://artsworld.vercel.app/"
@@ -24,7 +24,7 @@ const Page = () => {
       title: "Spawell",
       tech_stack: ["ReactJS", "NodeJS", "Express", "MongoDB", "TailwindCSS"],
       description:
-        "Developed a spa and wellness booking web app using the MERN stack. Implemented user authentication, booking functionality, and responsive design with TailwindCSS.",
+        "Collaborated in a team to build a web application for Spa. Contributed to both frontend UI (React JS) and backend development (Node.js, Express, MongoDB).",
       Role: "Full Stack Developer",
       link: "https://github.com/sherril203/spa",
       live_link:"https://spawell.vercel.app/"
@@ -33,7 +33,7 @@ const Page = () => {
       title: "Food Hub",
       tech_stack: ["HTML", "CSS", "JavaScript", "ReactJS", "NodeJS", "MongoDB"],
       description:
-        "Collaborated in a team to build a web application for cooking tutorials and grocery shopping. Contributed to both frontend UI (ReactJS) and backend (Node.js, MongoDB). Implemented features to display cooking recipes, manage user inputs, and handle product listings for grocery purchases.",
+        "Collaborated on a team project for a cooking and grocery shopping application. Engineered features for recipe displays, user input management, and dynamic product listings ",
       Role: "Frontend & Backend Developer",
       link: "https://github.com/sherril203/food",
     },
@@ -41,7 +41,7 @@ const Page = () => {
       title: "Trip My Day",
       tech_stack: ["Figma"],
       description:
-        "Designed a responsive ticket booking website prototype in Figma, focusing on intuitive navigation and clean layout to enhance user experience and booking flow.",
+       "Designed a responsive ticket booking website in Figma, enhancing features for easier and smoother booking. Focused on intuitive navigation and a clean layout to improve overall user experience ",
       Role: "UI/UX Designer",
       live_link:
         "https://www.figma.com/proto/XEpfS7yvic09fWZlNmL2NI/Train?node-id=1-2",

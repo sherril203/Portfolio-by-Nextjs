@@ -13,21 +13,21 @@ const Page = () => {
       title: "MERN Stack Developer Intern | WHY Global Services",
       duration: "January 2025 - November 2025",
       description:
-        "Developed responsive web interfaces using HTML, CSS, and Bootstrap; created interactive layouts using JavaScript, React.js for framework, TailwindCSS for responsive design, and Figma for UI/UX design. Also worked on backend development with Node.js, Express, and MongoDB during eight months of hands-on training.",
+        "Architected responsive web interfaces using React and TailwindCSS, ensuring cross-platform compatibility. Developed backend services using Node.js and Express, integrated with MongoDB for efficient data management. Collaborated on UI/UX workflows using Figma to translate design mockups into interactive layouts .",
       tech_stack: ["Figma", "HTML", "CSS", "JavaScript", "Bootstrap", "MongoDB","Express","Node","React","Tailwindcss"],
     },
     {
       title: "Web Designer Intern | Digit Info Solutions",
       duration: "July 2023 - August 2023",
       description:
-        "Built interactive websites using WordPress, HTML, CSS, and JavaScript. Improved user navigation and optimized designs for mobile responsiveness.",
+        "Built interactive websites using WordPress and custom HTML/CSS/JS. Optimized user navigation and mobile responsiveness for better site accessibility.",
       tech_stack: ["HTML", "CSS", "JavaScript", "WordPress"],
     },
     {
       title: "Full Stack Development Intern | Internezy (Virtual)",
       duration: "August 2022 - September 2022",
       description:
-        "Enhanced web development skills by learning and implementing HTML, CSS, JavaScript, and frameworks like React.js in real-world projects.",
+        "Develop your website development skills by learning HTML, CSS, JS, and other frameworks such as React JS. ",
       tech_stack: ["HTML", "CSS", "JavaScript", "ReactJS"],
     },
   ];
