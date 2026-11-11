@@ -49,7 +49,7 @@ const Navbar = () => {
           </li>
           <li>
             <Link
-              href="/Sherril James Kumar M-resume(updated).pdf"
+              href="/Sherril James Kumar M resume(updated).pdf"
               download
               className="bg-white text-orange-600 px-4 py-2 rounded-md font-semibold hover:bg-orange-200 transition"
             >

@@ -6,7 +6,7 @@ const Page = () => {
       <h1 className="text-center text-3xl font-bold mt-7 p-4">Resume</h1>
 
       <iframe
-       src="https://drive.google.com/file/d/1l5W4gL9QpfZyPj5-RqBQdaBqCAGvh2QU/preview" 
+       src="https://drive.google.com/file/d/15sSVaFWVGM977feGsoLSFYwdWvO20xXF/preview" 
         width="50%"
         height="800"
         className="border rounded-lg shadow-lg"

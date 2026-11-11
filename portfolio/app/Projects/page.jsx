@@ -11,6 +11,15 @@ const Page = () => {
   }, []);
 
   const projects = [
+     {
+      title: "FitMyHealth",
+      tech_stack: ["NextJS", "NodeJS", "Express", "MongoDB", "TailwindCSS"],
+      description:
+        "Developed a full-stack health and fitness web application using NextJS, Node.js, Express, and  MongoDB.Implemented user authentication using JWT and bcrypt.Added CSV and Excel export functionality for easy data sharing and reporting.Worked on both frontend and backend features to provide a responsive user experience",
+      Role: "Frontend & Backend Developer",
+      link: "https://github.com/sherril203/fitmyhealth",
+      live_link:"https://fitmyhealth-6iah.vercel.app/"
+    },
     {
       title: "Artsworld",
       tech_stack: ["ReactJS", "NodeJS", "Express", "MongoDB", "TailwindCSS"],

@@ -46,7 +46,7 @@ const Page = () => {
     { icon: SiPostman, name: "Postman", color: "#FF6C37" },
     { icon: FaFigma, name: "Figma", color: "#F24E1E" },
     { icon: TbApi, name: "API Integration", color: "red" },
-     { icon: SiMysql, name: "MySQL", color: "blue" },
+    //  { icon: SiMysql, name: "MySQL", color: "blue" },
   ];
 
   return (
